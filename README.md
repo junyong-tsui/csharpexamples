@@ -1,1 +1,1 @@
-   all just study notes about .net .
+   all just study notes about .net . holy shit haha ,to test git diff
