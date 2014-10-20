@@ -1,0 +1,6 @@
+F:\黑马教学资料\CSharp知识点总结\文件操作\bin\Debug\文件操作.exe.config
+F:\黑马教学资料\CSharp知识点总结\文件操作\bin\Debug\文件操作.exe
+F:\黑马教学资料\CSharp知识点总结\文件操作\bin\Debug\文件操作.pdb
+F:\黑马教学资料\CSharp知识点总结\文件操作\obj\Debug\文件操作.csprojResolveAssemblyReference.cache
+F:\黑马教学资料\CSharp知识点总结\文件操作\obj\Debug\文件操作.exe
+F:\黑马教学资料\CSharp知识点总结\文件操作\obj\Debug\文件操作.pdb

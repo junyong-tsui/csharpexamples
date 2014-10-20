@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <user id="002">
+    <name>steve</name>
+    <password>steve123</password>
+  </user>
+  <user id="003">
+    <name>苏坤</name>
+    <password>1234QWER</password>
+  </user>
+  <user id="004">
+    <name>yzk</name>
+    <password>yzk123</password>
+  </user>
+  <user id="007">
+    <name>詹姆斯邦德</name>
+    <password>james007</password>
+  </user>
+  <user id="008">
+    <name>彭莉莉</name>
+    <password>1234</password>
+  </user>
+  <user id="009">
+    <name>高文咪</name>
+    <password>1234</password>
+  </user>
+  <user id="010">
+    <name>张成</name>
+    <password>123</password>
+  </user>
+  <user id="011">
+    <name>三等功</name>
+    <password>三等功</password>
+  </user>
+  <user id="012">
+    <name>sdg</name>
+    <password>sdg</password>
+  </user>
+</Users>

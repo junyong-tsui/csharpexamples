@@ -1,0 +1,7 @@
+E:\C#\黑马C#视频资料\CSharp知识点总结\test01\bin\Debug\test01.exe.config
+E:\C#\黑马C#视频资料\CSharp知识点总结\test01\bin\Debug\test01.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\test01\bin\Debug\test01.pdb
+E:\C#\黑马C#视频资料\CSharp知识点总结\test01\bin\Debug\Ionic.Zip.dll
+E:\C#\黑马C#视频资料\CSharp知识点总结\test01\bin\Debug\NPOI.dll
+E:\C#\黑马C#视频资料\CSharp知识点总结\test01\obj\Debug\test01.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\test01\obj\Debug\test01.pdb

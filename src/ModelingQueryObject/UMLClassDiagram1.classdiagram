@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="e7fd749e-3c65-4c3c-9553-f9e9a561a883" name="UMLClassDiagram1" linkedPackageId="8deca6fb-c5a7-4d7e-be32-5166203bde4e" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <appliedStereotypesInternal>
+    <stereotypeInstance Id="bfdce189-fc79-4a88-9575-b39226e0c94a" name="namespace" profile="CSharpProfile">
+      <elementDefinition Id="632c69e6-fac3-4df2-86d6-84beaa58a902" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="57aecf1e-a1f6-4b69-9b56-02a526fdbc0b">
+          <propertyInstance Id="9b5c6a66-9f24-45aa-888a-2d31fdb38006" name="BaseName">
+            <elementDefinition Id="124759da-fb0b-45ed-bf37-428a22659da0" />
+          </propertyInstance>
+          <elementDefinition Id="07484157-eeb2-4b11-a2bc-6b9cc3ec0ce4" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="4742a3d9-dffe-442d-9675-19862f273672">
+          <propertyInstance Id="9a5afbda-c1ae-45e9-a304-034132a71f0a" name="ClrAttributes">
+            <elementDefinition Id="f762bebd-af24-42c0-914d-1029c1b27be1" />
+          </propertyInstance>
+          <elementDefinition Id="d43c96f8-6187-4613-9044-724dcf905db6" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="47cf9e47-3e22-4cef-94ca-33208ff5ad42">
+          <propertyInstance Id="cf57c99e-1442-4405-a73d-720cc4b66df4" name="Usings">
+            <elementDefinition Id="52dd5756-cf81-44e0-9b9c-56c7a77bdf08" />
+          </propertyInstance>
+          <elementDefinition Id="b809992b-94e4-42fd-899d-2dbe8b97f9f3" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance Id="94d8e5fe-40f5-4e00-a1ea-a746e4d770fe" name="TextTemplateBindings" profile="TextTemplateBindings">
+      <elementDefinition Id="3056a071-f2d6-4815-be27-7de3dde69bda" />
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="7c590571-d1a4-4110-9a5b-826dc657c4ce">
+          <propertyInstance Id="3dbc70d1-d9c9-41e3-86b6-9fd3fa7dfcde" name="Alias" value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate">
+            <elementDefinition Id="f94e3154-ebb7-4463-b169-4539cdc45098" />
+          </propertyInstance>
+          <elementDefinition Id="738e0c82-1ac9-4d8f-b795-e73173843761" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="e68746ab-2d9e-44e9-b335-ecf80b2652c9">
+          <propertyInstance Id="fbf48167-157a-404a-8ea8-f3e44270023d" name="TemplateFilePath" value="ClassTemplate=F:\VS2013\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=F:\VS2013\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=F:\VS2013\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=F:\VS2013\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4">
+            <elementDefinition Id="7f4db80b-364f-4b41-a355-b7c50ab96bb0" />
+          </propertyInstance>
+          <elementDefinition Id="4c926416-426d-4ed2-9eb7-597bd85fe845" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="b8095de3-e6ec-415c-bbcc-de4915e71dfa">
+          <propertyInstance Id="988417b7-8c78-4e34-b83c-484408be6669" name="ProjectPath" value="ClassTemplate=..\ModelingQueryObjectLib\ModelingQueryObjectLib.csproj|EnumTemplate=..\ModelingQueryObjectLib\ModelingQueryObjectLib.csproj|InterfaceTemplate=..\ModelingQueryObjectLib\ModelingQueryObjectLib.csproj|StructTemplate=..\ModelingQueryObjectLib\ModelingQueryObjectLib.csproj">
+            <elementDefinition Id="7ef0ae7a-9e41-435d-84e4-219ed27657ae" />
+          </propertyInstance>
+          <elementDefinition Id="5c2d23cb-5172-4f81-91ec-92a14f641cc4" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="ad95780f-0b80-4de6-b286-f03c0c62ff97">
+          <propertyInstance Id="7c7a1a39-e024-41d4-8627-cfaa9bff59af" name="TargetDirectory" value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}">
+            <elementDefinition Id="8ca193a8-b7e1-47a9-82ef-0f43647e1810" />
+          </propertyInstance>
+          <elementDefinition Id="634b5b01-ad71-4976-af98-4e755516334f" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="3b753997-8793-474e-9e04-e40385bb563e">
+          <propertyInstance Id="6c6b3968-0860-4d87-ba32-6d9b78d77358" name="TargetName" value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}">
+            <elementDefinition Id="d502e2ab-89f1-47ac-921e-8c14292aadf3" />
+          </propertyInstance>
+          <elementDefinition Id="3e47525c-4180-4387-9eae-025e3a1d3f35" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="2b086939-890c-457b-aba8-acfe40a4d3bf">
+          <propertyInstance Id="efa7d9e8-a101-4ab8-a139-ec7709c40a05" name="Overwrite" value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True">
+            <elementDefinition Id="975e715a-6b44-4b67-b2f6-34fe29c0c8a9" />
+          </propertyInstance>
+          <elementDefinition Id="214ea6b5-f383-4b52-b38f-5a4eb35eba04" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances Id="764a27dd-7934-4ba2-b1fa-bc2df122a3c6">
+          <propertyInstance Id="de36c45c-7f61-47ec-a6df-7f5724be0302" name="Parameters">
+            <elementDefinition Id="d47b1d5b-b0e0-4d76-b49e-9c3b00eb9a26" />
+          </propertyInstance>
+          <elementDefinition Id="fbd848fb-ea31-40bd-8c16-4ad0f4b99404" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <profileInstances>
+    <packageHasProfileInstances Id="376e0464-3b1b-4a3b-9887-d2cf5a0d5843">
+      <profileInstance Id="54d0f193-f339-4790-805b-3a496ce64bc2" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="bc9b0130-b477-4f0e-97a3-fd66fecdced9">
+      <profileInstance Id="3b19e672-9d36-4be6-88b7-6b55984b96ac" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="3e896e3b-d9b3-4675-b9f2-3ea46ae811c8">
+      <profileInstance Id="f188fb5d-bc69-409d-9660-2559478ce9de" name="CSharpProfile">
+        <elementDefinition Id="7f4a4dea-7d64-4650-b942-a24fdd4bbfdf" />
+      </profileInstance>
+      <elementDefinition Id="8fb6b9de-e065-4375-897f-4f1a24bc0328" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="8d9dce4e-7d3e-4aa1-a27a-3299b9cf79f9">
+      <profileInstance Id="1c081c03-5a10-4f87-baf5-c2f3097e6d99" name="TextTemplateBindings">
+        <elementDefinition Id="30c90fec-e9dc-4ed4-bb52-cda64c36235a" />
+      </profileInstance>
+      <elementDefinition Id="e215ea07-bdc5-4a97-b9ff-9ceb4bb297af" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <enumeration Id="3908cbaf-04c6-4a46-a248-c95fbe104883" name="Criteriaoperator" isAbstract="false" isLeaf="false">
+        <appliedStereotypesInternal>
+          <stereotypeInstance Id="54dd604e-2b8a-4fbb-a063-7c8bbe78cca1" name="enum" profile="CSharpProfile">
+            <elementDefinition Id="2e9d86a3-6eb6-4fe4-bb20-4526a17213e7" />
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances Id="dc9bfe73-6e58-472a-82b6-ccf8fc64a0cc">
+                <propertyInstance Id="24305da5-d39f-4576-8799-9e1d099e0a1a" name="ClrAttributes">
+                  <elementDefinition Id="4bf22bc0-3a50-4d0a-907e-a0a6d6029509" />
+                </propertyInstance>
+                <elementDefinition Id="bb63bd25-f57f-4a38-8ad5-c72a50a982cb" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances Id="c861c662-8955-46a2-8f57-e712fef02a71">
+                <propertyInstance Id="c588ab44-c753-46cd-978d-fdf57b218dd5" name="BaseType" value="int">
+                  <elementDefinition Id="0b57584e-509f-41d7-8f7e-3f49cd7d6549" />
+                </propertyInstance>
+                <elementDefinition Id="6cd8d1d5-5a2c-4f22-a9b5-732dd9d08863" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances Id="7da64575-4ca8-41f5-afb4-a3b8421ca614">
+                <propertyInstance Id="841b1d6a-1790-4bae-b95d-48f5623e7361" name="PackageVisibility" value="internal">
+                  <elementDefinition Id="36298fd7-be06-41d8-9ae5-974b97924f70" />
+                </propertyInstance>
+                <elementDefinition Id="d23e90e4-42e1-41f4-af4c-fce28c0a0637" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+        <elementDefinition Id="d6693284-7c98-4941-a9c1-0fa90f1b0d68" />
+        <ownedLiterals>
+          <enumerationLiteral Id="2ba392b5-55c4-4092-bf46-caf03f646f65" name="Equal">
+            <elementDefinition Id="d1932b38-49a9-44d0-a9a8-9668b471b240" />
+          </enumerationLiteral>
+          <enumerationLiteral Id="594f229b-e809-4402-9076-8a52a1c7630a" name="LessThen">
+            <elementDefinition Id="3a1294c5-2f2c-4e98-8246-ad332bc21d37" />
+          </enumerationLiteral>
+          <enumerationLiteral Id="cfe18c06-7c27-4688-9efb-334ed2bc3470" name="GreaterThen">
+            <elementDefinition Id="df965569-8373-4790-8e71-7917690e52f0" />
+          </enumerationLiteral>
+          <enumerationLiteral Id="0aa17fae-6b6d-46e1-b4e3-5eebe603e4fd" name="GreaterThanOrEqual">
+            <elementDefinition Id="ac83dd5e-f045-4848-b0db-1c1f026255b3" />
+          </enumerationLiteral>
+          <enumerationLiteral Id="9b9d496b-44c0-4902-aec1-364a19396ab8" name="LessThanOrEqual">
+            <elementDefinition Id="0aa20e03-eaa5-454f-9742-8f17f1a03db5" />
+          </enumerationLiteral>
+          <enumerationLiteral Id="213b4d42-d314-4ffa-b42d-963cbf7f051d" name="Like">
+            <elementDefinition Id="6b67ff3f-5e06-418f-94b4-f99ef6d2140a" />
+          </enumerationLiteral>
+          <enumerationLiteral Id="63053959-f1a9-48d2-8228-f13da61f955c" name="BetweenAnd">
+            <elementDefinition Id="244638f0-e6ac-42c2-b5fe-069ddedeb0cf" />
+          </enumerationLiteral>
+          <enumerationLiteral Id="dfe0fa81-b323-4871-bb9c-7bc23b5ef326" name="In">
+            <elementDefinition Id="1920005d-7e84-43ce-8334-ee8ed3b3756e" />
+          </enumerationLiteral>
+        </ownedLiterals>
+      </enumeration>
+    </logicalClassDesignerModelHasTypes>
+  </packagedElements>
+  <package Id="8deca6fb-c5a7-4d7e-be32-5166203bde4e" name="ModelingQueryObject">
+    <elementDefinition Id="28175ed7-e47c-4f6e-b155-204940131419" />
+  </package>
+</logicalClassDesignerModel>

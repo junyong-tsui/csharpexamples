@@ -1,0 +1,6 @@
+F:\黑马教学资料\CSharp知识点总结\接口\bin\Debug\接口.exe.config
+F:\黑马教学资料\CSharp知识点总结\接口\obj\Debug\接口.exe
+F:\黑马教学资料\CSharp知识点总结\接口\obj\Debug\接口.pdb
+D:\CSharp知识点总结\接口\bin\Debug\接口.exe.config
+D:\CSharp知识点总结\接口\obj\Debug\接口.exe
+D:\CSharp知识点总结\接口\obj\Debug\接口.pdb

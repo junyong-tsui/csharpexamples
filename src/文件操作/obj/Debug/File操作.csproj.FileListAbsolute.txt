@@ -1,0 +1,15 @@
+F:\黑马教学资料\CSharp知识点总结\文件操作\bin\Debug\文件操作.exe.config
+F:\黑马教学资料\CSharp知识点总结\文件操作\obj\Debug\文件操作.exe
+F:\黑马教学资料\CSharp知识点总结\文件操作\obj\Debug\文件操作.pdb
+F:\黑马教学资料\CSharp知识点总结\文件操作\bin\Debug\文件操作.exe
+F:\黑马教学资料\CSharp知识点总结\文件操作\bin\Debug\文件操作.pdb
+F:\黑马教学资料\CSharp知识点总结\文件操作\obj\Debug\File操作.csprojResolveAssemblyReference.cache
+E:\C#\黑马C#视频资料\CSharp知识点总结\文件操作\bin\Debug\文件操作.exe.config
+E:\C#\黑马C#视频资料\CSharp知识点总结\文件操作\obj\Debug\文件操作.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\文件操作\obj\Debug\文件操作.pdb
+D:\CSharp知识点总结\文件操作\bin\Debug\文件操作.exe.config
+D:\CSharp知识点总结\文件操作\obj\Debug\文件操作.exe
+D:\CSharp知识点总结\文件操作\obj\Debug\文件操作.pdb
+D:\项目\CSharp知识点总结\文件操作\bin\Debug\文件操作.exe.config
+D:\项目\CSharp知识点总结\文件操作\obj\Debug\文件操作.exe
+D:\项目\CSharp知识点总结\文件操作\obj\Debug\文件操作.pdb

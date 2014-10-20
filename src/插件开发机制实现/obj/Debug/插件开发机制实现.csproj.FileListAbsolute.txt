@@ -1,0 +1,1 @@
+F:\黑马教学资料\CSharp知识点总结\插件开发机制实现\bin\Debug\插件开发机制实现.exe.config

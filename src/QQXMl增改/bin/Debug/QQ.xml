@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Questions>
+  <Date id="20120830">
+    <Q isOk="True">
+      <title>关于Html的问题333 呵呵呵呵</title>
+      <desc>Html的标签问题，p标签到底需不需要结束呀》》》》？？</desc>
+    </Q>
+    <Q isOk="true">
+      <title>关于sql server数据库的问题32323</title>
+      <desc>连接字符串该怎么写呀？323232</desc>
+    </Q>
+    <Q isOk="true">
+      <title>关于.net垃圾回收的问题。</title>
+      <desc>垃圾回收中代的概念是怎么一回事呢？？</desc>
+    </Q>
+  </Date>
+  <Date id="20120831">
+    <Q isOk="True">
+      <title>关于xml读写</title>
+      <desc>在读杀死，风刀霜剑覅哦打撒佛就发了狂打撒发的发动机谁离开就浪费的撒</desc>
+    </Q>
+    <Q isOk="False">
+      <title>关于深拷贝、浅拷贝的问题法师发誓</title>
+      <desc>什么叫做深拷贝？什么叫做浅拷贝呀？dvcdfasdeqwrwqrqrqfa</desc>
+    </Q>
+    <Q isOk="True">
+      <title>.net中的特性是指什么？</title>
+      <desc>特性可以字节写吗？怎么用呢？
+fasdjfhaksjdfjaklsdjf</desc>
+    </Q>
+  </Date>
+  <Date id="20121118">
+    <Q isOk="False">
+      <title>fafa</title>
+      <desc>fdjafas放假啊到了付款就拉了</desc>
+    </Q>
+    <Q isOk="False">
+      <title>发的撒伐发放</title>
+      <desc>发顺丰撒伐饭卡沙发客解放军卡机</desc>
+    </Q>
+    <Q isOk="True">
+      <title>发克里夫萨芬</title>
+      <desc>开发建设看了就分开</desc>
+    </Q>
+  </Date>
+  <Date id="20131009">
+    <Q isOk="False">
+      <title>今天的问题</title>
+      <desc>发动机阿斯疗法即可</desc>
+    </Q>
+  </Date>
+  <Date id="20131010">
+    <Q isOk="False">
+      <title>fsdfggjgjgj</title>
+      <desc>fsafsa</desc>
+    </Q>
+  </Date>
+</Questions>

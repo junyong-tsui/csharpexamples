@@ -1,0 +1,10 @@
+F:\黑马教学资料\CSharp知识点总结\委托\22222\bin\Debug\22222.exe.config
+F:\黑马教学资料\CSharp知识点总结\委托\22222\bin\Debug\22222.exe
+F:\黑马教学资料\CSharp知识点总结\委托\22222\bin\Debug\22222.pdb
+F:\黑马教学资料\CSharp知识点总结\委托\22222\obj\Debug\22222.csprojResolveAssemblyReference.cache
+F:\黑马教学资料\CSharp知识点总结\委托\22222\obj\Debug\_22222.Form1.resources
+F:\黑马教学资料\CSharp知识点总结\委托\22222\obj\Debug\_22222.Form2.resources
+F:\黑马教学资料\CSharp知识点总结\委托\22222\obj\Debug\_22222.Properties.Resources.resources
+F:\黑马教学资料\CSharp知识点总结\委托\22222\obj\Debug\22222.csproj.GenerateResource.Cache
+F:\黑马教学资料\CSharp知识点总结\委托\22222\obj\Debug\22222.exe
+F:\黑马教学资料\CSharp知识点总结\委托\22222\obj\Debug\22222.pdb

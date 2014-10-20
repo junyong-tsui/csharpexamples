@@ -1,0 +1,8 @@
+F:\黑马教学资料\CSharp知识点总结\装箱与拆箱\bin\Debug\装箱与拆箱.exe.config
+F:\黑马教学资料\CSharp知识点总结\装箱与拆箱\bin\Debug\装箱与拆箱.exe
+F:\黑马教学资料\CSharp知识点总结\装箱与拆箱\bin\Debug\装箱与拆箱.pdb
+F:\黑马教学资料\CSharp知识点总结\装箱与拆箱\obj\Debug\装箱与拆箱.exe
+F:\黑马教学资料\CSharp知识点总结\装箱与拆箱\obj\Debug\装箱与拆箱.pdb
+D:\项目\CSharp知识点总结\装箱与拆箱\bin\Debug\装箱与拆箱.exe.config
+D:\项目\CSharp知识点总结\装箱与拆箱\obj\Debug\装箱与拆箱.exe
+D:\项目\CSharp知识点总结\装箱与拆箱\obj\Debug\装箱与拆箱.pdb

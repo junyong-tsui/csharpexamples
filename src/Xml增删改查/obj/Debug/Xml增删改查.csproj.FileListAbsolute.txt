@@ -1,0 +1,9 @@
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\bin\Debug\Xml增删改查.exe.config
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\bin\Debug\Xml增删改查.exe
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\bin\Debug\Xml增删改查.pdb
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\obj\Debug\Xml增删改查.csprojResolveAssemblyReference.cache
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\obj\Debug\Xml增删改查.Form1.resources
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\obj\Debug\Xml增删改查.Properties.Resources.resources
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\obj\Debug\Xml增删改查.csproj.GenerateResource.Cache
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\obj\Debug\Xml增删改查.exe
+F:\黑马教学资料\CSharp知识点总结\Xml增删改查\obj\Debug\Xml增删改查.pdb

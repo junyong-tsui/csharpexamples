@@ -1,0 +1,15 @@
+F:\黑马教学资料\CSharp知识点总结\正则表达式\bin\Debug\正则表达式.exe.config
+F:\黑马教学资料\CSharp知识点总结\正则表达式\bin\Debug\正则表达式.exe
+F:\黑马教学资料\CSharp知识点总结\正则表达式\bin\Debug\正则表达式.pdb
+F:\黑马教学资料\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.csprojResolveAssemblyReference.cache
+F:\黑马教学资料\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.exe
+F:\黑马教学资料\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.pdb
+E:\C#\黑马C#视频资料\CSharp知识点总结\正则表达式\bin\Debug\正则表达式.exe.config
+E:\C#\黑马C#视频资料\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.pdb
+E:\C#\CSharp知识点总结\正则表达式\bin\Debug\正则表达式.exe.config
+E:\C#\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.exe
+E:\C#\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.pdb
+D:\项目\CSharp知识点总结\正则表达式\bin\Debug\正则表达式.exe.config
+D:\项目\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.exe
+D:\项目\CSharp知识点总结\正则表达式\obj\Debug\正则表达式.pdb

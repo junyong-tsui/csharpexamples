@@ -1,0 +1,15 @@
+F:\黑马教学资料\CSharp知识点总结\序列化\bin\Debug\序列化.exe.config
+F:\黑马教学资料\CSharp知识点总结\序列化\bin\Debug\序列化.exe
+F:\黑马教学资料\CSharp知识点总结\序列化\bin\Debug\序列化.pdb
+F:\黑马教学资料\CSharp知识点总结\序列化\obj\Debug\序列化.csprojResolveAssemblyReference.cache
+F:\黑马教学资料\CSharp知识点总结\序列化\obj\Debug\序列化.exe
+F:\黑马教学资料\CSharp知识点总结\序列化\obj\Debug\序列化.pdb
+E:\C#\黑马C#视频资料\CSharp知识点总结\序列化\bin\Debug\序列化.exe.config
+E:\C#\黑马C#视频资料\CSharp知识点总结\序列化\obj\Debug\序列化.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\序列化\obj\Debug\序列化.pdb
+E:\C#\CSharp知识点总结\序列化\bin\Debug\序列化.exe.config
+E:\C#\CSharp知识点总结\序列化\obj\Debug\序列化.exe
+E:\C#\CSharp知识点总结\序列化\obj\Debug\序列化.pdb
+D:\CSharp知识点总结\序列化\bin\Debug\序列化.exe.config
+D:\CSharp知识点总结\序列化\obj\Debug\序列化.exe
+D:\CSharp知识点总结\序列化\obj\Debug\序列化.pdb

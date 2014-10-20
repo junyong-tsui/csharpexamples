@@ -1,0 +1,11 @@
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\bin\Debug\观察者模式.exe.config
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\bin\Debug\观察者模式.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\bin\Debug\观察者模式.pdb
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.csprojResolveAssemblyReference.cache
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.MainFrm.resources
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.PublisherFrm.resources
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.SubscriberFrm.resources
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.Properties.Resources.resources
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.csproj.GenerateResource.Cache
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\观察者模式\obj\Debug\观察者模式.pdb

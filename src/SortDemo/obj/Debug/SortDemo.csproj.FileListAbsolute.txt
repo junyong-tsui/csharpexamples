@@ -1,0 +1,6 @@
+F:\DotNet项目\CSharp知识点总结\SortDemo\bin\Debug\SortDemo.exe.config
+F:\DotNet项目\CSharp知识点总结\SortDemo\bin\Debug\SortDemo.exe
+F:\DotNet项目\CSharp知识点总结\SortDemo\bin\Debug\SortDemo.pdb
+F:\DotNet项目\CSharp知识点总结\SortDemo\obj\Debug\SortDemo.csprojResolveAssemblyReference.cache
+F:\DotNet项目\CSharp知识点总结\SortDemo\obj\Debug\SortDemo.exe
+F:\DotNet项目\CSharp知识点总结\SortDemo\obj\Debug\SortDemo.pdb

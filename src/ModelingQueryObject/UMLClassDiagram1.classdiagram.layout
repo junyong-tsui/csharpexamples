@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="UMLClassDiagram1">
+  <logicalClassDesignerModelMoniker Id="e7fd749e-3c65-4c3c-9553-f9e9a561a883" />
+  <nestedChildShapes>
+    <enumerationShape Id="6982b108-6e13-4b0a-86ad-534f2df3b7be" absoluteBounds="0.625, 1.375, 1.5, 2.3381868489583333" hideQualifiedName="false" increaseHeight="0.20650390625" customColor="161, 150, 103">
+      <enumerationMoniker Id="3908cbaf-04c6-4a46-a248-c95fbe104883" LastKnownName="Criteriaoperator" />
+      <nestedChildShapes>
+        <LiteralElementListCompartment Id="f6bdfdb2-7278-4a98-a056-6c986fcb54e7" absoluteBounds="0.64, 1.9715039062500002, 1.4700000000000002, 1.641682942708333" name="LiteralsCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </enumerationShape>
+  </nestedChildShapes>
+</logicalClassDesignerDiagram>

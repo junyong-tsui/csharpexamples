@@ -1,0 +1,2 @@
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.exe
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.pdb

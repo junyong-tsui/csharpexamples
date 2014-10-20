@@ -1,0 +1,3 @@
+E:\C#\黑马C#视频资料\CSharp知识点总结\MD5注册登录\bin\Debug\MD5注册登录.exe.config
+E:\C#\CSharp知识点总结\MD5注册登录\bin\Debug\MD5注册登录.exe.config
+D:\CSharp知识点总结\MD5注册登录\bin\Debug\MD5注册登录.exe.config

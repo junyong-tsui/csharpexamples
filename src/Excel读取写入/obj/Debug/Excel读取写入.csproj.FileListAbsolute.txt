@@ -1,0 +1,12 @@
+E:\C#\黑马C#视频资料\CSharp知识点总结\Excel读取写入\bin\Debug\Excel读取写入.exe.config
+E:\C#\黑马C#视频资料\CSharp知识点总结\Excel读取写入\bin\Debug\Excel读取写入.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\Excel读取写入\bin\Debug\Excel读取写入.pdb
+E:\C#\黑马C#视频资料\CSharp知识点总结\Excel读取写入\obj\Debug\Excel读取写入.csprojResolveAssemblyReference.cache
+E:\C#\黑马C#视频资料\CSharp知识点总结\Excel读取写入\obj\Debug\Excel读取写入.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\Excel读取写入\obj\Debug\Excel读取写入.pdb
+F:\DotNet项目\CSharp知识点总结\Excel读取写入\bin\Debug\Excel读取写入.exe.config
+F:\DotNet项目\CSharp知识点总结\Excel读取写入\obj\Debug\Excel读取写入.exe
+F:\DotNet项目\CSharp知识点总结\Excel读取写入\obj\Debug\Excel读取写入.pdb
+D:\CSharp知识点总结\Excel读取写入\bin\Debug\Excel读取写入.exe.config
+D:\CSharp知识点总结\Excel读取写入\obj\Debug\Excel读取写入.exe
+D:\CSharp知识点总结\Excel读取写入\obj\Debug\Excel读取写入.pdb

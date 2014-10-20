@@ -1,0 +1,10 @@
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\bin\Debug\QQXMl增改.exe.config
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\bin\Debug\QQXMl增改.exe
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\bin\Debug\QQXMl增改.pdb
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\obj\Debug\QQXMl增改.csprojResolveAssemblyReference.cache
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\obj\Debug\QQXMl增改.Properties.Resources.resources
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\obj\Debug\QQXMl增改.csproj.GenerateResource.Cache
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\obj\Debug\QQXMl增改.exe
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\obj\Debug\QQXMl增改.pdb
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\obj\Debug\QQXMl增改.FormQQuetion.resources
+F:\黑马教学资料\CSharp知识点总结\QQXMl增改\obj\Debug\QQXMl增改.FormQuestionInfo.resources

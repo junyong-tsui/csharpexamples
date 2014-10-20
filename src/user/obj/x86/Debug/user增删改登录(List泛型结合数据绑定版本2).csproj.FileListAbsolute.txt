@@ -1,0 +1,10 @@
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.exe
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.pdb
+F:\黑马教学资料\CSharp知识点总结\user\bin\Debug\对xml用winform进行增删改查.exe
+F:\黑马教学资料\CSharp知识点总结\user\bin\Debug\对xml用winform进行增删改查.pdb
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\user增删改登录(List泛型结合数据绑定版本2).csprojResolveAssemblyReference.cache
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.FormLogin.resources
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.FormRegister.resources
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.FormUserList.resources
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\对xml用winform进行增删改查.Properties.Resources.resources
+F:\黑马教学资料\CSharp知识点总结\user\obj\x86\Debug\user增删改登录(List泛型结合数据绑定版本2).csproj.GenerateResource.Cache

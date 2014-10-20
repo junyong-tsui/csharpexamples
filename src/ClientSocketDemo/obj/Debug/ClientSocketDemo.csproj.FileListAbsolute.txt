@@ -1,0 +1,12 @@
+E:\C#\CSharp知识点总结\ClientSocketDemo\bin\Debug\ClientSocketDemo.exe.config
+E:\C#\CSharp知识点总结\ClientSocketDemo\bin\Debug\ClientSocketDemo.exe
+E:\C#\CSharp知识点总结\ClientSocketDemo\bin\Debug\ClientSocketDemo.pdb
+E:\C#\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.csprojResolveAssemblyReference.cache
+E:\C#\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.ClientFrm.resources
+E:\C#\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.Properties.Resources.resources
+E:\C#\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.csproj.GenerateResource.Cache
+E:\C#\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.exe
+E:\C#\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.pdb
+D:\CSharp知识点总结\ClientSocketDemo\bin\Debug\ClientSocketDemo.exe.config
+D:\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.exe
+D:\CSharp知识点总结\ClientSocketDemo\obj\Debug\ClientSocketDemo.pdb

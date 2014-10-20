@@ -1,0 +1,15 @@
+E:\C#\黑马C#视频资料\CSharp知识点总结\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+E:\C#\黑马C#视频资料\CSharp知识点总结\ThreadDemo\bin\Debug\ThreadDemo.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\ThreadDemo\bin\Debug\ThreadDemo.pdb
+E:\C#\黑马C#视频资料\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.csprojResolveAssemblyReference.cache
+E:\C#\黑马C#视频资料\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.exe
+E:\C#\黑马C#视频资料\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.pdb
+E:\C#\CSharp知识点总结\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+E:\C#\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.exe
+E:\C#\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.pdb
+E:\C#\CSharp知识点总结\ThreadDemo\bin\Debug\ThreadDemo.exe
+E:\C#\CSharp知识点总结\ThreadDemo\bin\Debug\ThreadDemo.pdb
+E:\C#\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.csprojResolveAssemblyReference.cache
+D:\CSharp知识点总结\ThreadDemo\bin\Debug\ThreadDemo.exe.config
+D:\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.exe
+D:\CSharp知识点总结\ThreadDemo\obj\Debug\ThreadDemo.pdb

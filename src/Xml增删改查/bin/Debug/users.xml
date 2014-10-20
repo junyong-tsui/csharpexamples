@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user>
+    <id>009</id>
+    <name>用户一</name>
+    <addr>西安</addr>
+  </user>
+  <user>
+    <id>002</id>
+    <name>用户二</name>
+    <addr>北京</addr>
+  </user>
+  <user>
+    <id>890</id>
+    <name>胡歌</name>
+    <addr>总过</addr>
+  </user>
+</users>

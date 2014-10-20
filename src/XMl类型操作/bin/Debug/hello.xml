@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Class>
+  <Person>
+    <Name>刘尚鑫</Name>
+    <Age>20</Age>
+    <Email>lsx@yahoo.com</Email>
+  </Person>
+  <Person>
+    <Name>gwm</Name>
+    <Age>21</Age>
+    <Email>gwm@yahoo.com</Email>
+  </Person>
+  <Person>
+    <Name>pll</Name>
+    <Age>19</Age>
+    <Email>pll@yahoo.com</Email>
+  </Person>
+  <Person>
+    <Name>李晶晶</Name>
+    <Age>20</Age>
+    <Email>ljj@yahoo.com</Email>
+  </Person>
+</Class>

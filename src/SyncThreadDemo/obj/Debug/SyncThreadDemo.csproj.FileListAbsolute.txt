@@ -1,0 +1,9 @@
+E:\C#\CSharp知识点总结\SyncThreadDemo\bin\Debug\SyncThreadDemo.exe.config
+E:\C#\CSharp知识点总结\SyncThreadDemo\bin\Debug\SyncThreadDemo.exe
+E:\C#\CSharp知识点总结\SyncThreadDemo\bin\Debug\SyncThreadDemo.pdb
+E:\C#\CSharp知识点总结\SyncThreadDemo\obj\Debug\SyncThreadDemo.csprojResolveAssemblyReference.cache
+E:\C#\CSharp知识点总结\SyncThreadDemo\obj\Debug\SyncThreadDemo.exe
+E:\C#\CSharp知识点总结\SyncThreadDemo\obj\Debug\SyncThreadDemo.pdb
+D:\CSharp知识点总结\SyncThreadDemo\bin\Debug\SyncThreadDemo.exe.config
+D:\CSharp知识点总结\SyncThreadDemo\obj\Debug\SyncThreadDemo.exe
+D:\CSharp知识点总结\SyncThreadDemo\obj\Debug\SyncThreadDemo.pdb

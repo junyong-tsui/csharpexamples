@@ -1,0 +1,12 @@
+Linq to EF/SQL/自定义数据源的查询: 支撑的类型基础Queryable 针对IQueryable<T>定义了一系列的扩展方法 变化的部分以委托的方式封装出去
+
+         1关键的接口:
+	           
+		   IQueryable  实现此接口的对象可以进行自定义查询，该对象提供查询表达式和解析查询表达式的提供组件(即实现IQueryProvider的实例)
+	 
+	 
+	           IQueryProvider :实现对对象查询的自定义 方式为查询对象的Expression 按照自定义规则解析 最终执行的时候会将构造好的表达式编译成一个委托实例(Func<T>) 
+              调用并返回值（类型为实现IQueryable接口的子类）
+
+
+	           一般支持Queryable查询的对象会同时实现IQueryable,IQueryProvider这两个接口

@@ -1,0 +1,3 @@
+F:\黑马教学资料\CSharp知识点总结\User增删改(版本3)\bin\Debug\User增删改(版本3).exe.config
+F:\黑马教学资料\CSharp知识点总结\User增删改(版本3)\obj\Debug\User增删改(版本3).exe
+F:\黑马教学资料\CSharp知识点总结\User增删改(版本3)\obj\Debug\User增删改(版本3).pdb

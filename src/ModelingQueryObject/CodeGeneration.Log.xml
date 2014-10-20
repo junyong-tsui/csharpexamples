@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///F:/VS2013/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="代码生成/文本转换记录">
+  <MessageClass Name="Message" Label="消息" Option="显示提供相关信息的消息" />
+  <MessageClass Name="Warning" Label="警告" Option="显示警告" />
+  <MessageClass Name="Error" Label="错误" Option="显示错误" />
+  <MessageClass Name="Property" Label="属性" Option="显示元数据" />
+  <MessageClass Name="Diagnostic" Label="消息" Option="显示诊断消息" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="High" Text="已启动代码生成或文本转换。" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Diagnostic" Text="名称 = EnumTemplate" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Diagnostic" Text="覆盖 = True" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Diagnostic" Text="ProjectPath = ..\ModelingQueryObjectLib\ModelingQueryObjectLib.csproj" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Diagnostic" Text="TemplateFilePath = F:\VS2013\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Diagnostic" Text="ResolvedTemplateFilePath = F:\VS2013\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Medium" Text="ModelingQueryObject 的文本模板绑定: “EnumTemplate”会将 EnumTemplate.t4 应用于: “ModelingQueryObject::Criteriaoperator”-  (Enumeration) " />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="Medium" Text="“ModelingQueryObject::Criteriaoperator”-  (Enumeration) : 成功(已替换文件) - E:\C#\CSharp知识点总结\ModelingQueryObjectLib\GeneratedCode\Criteriaoperator.cs" />
+  <Message Timestamp="2013-12-28T19:28:02" Importance="High" Text="代码生成完成。错误:  0。警告:  0。" />
+</Log>

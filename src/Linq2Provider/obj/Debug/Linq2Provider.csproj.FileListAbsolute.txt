@@ -1,0 +1,2 @@
+E:\C#\CSharp知识点总结\Linq2Provider\bin\Debug\Linq2Provider.exe.config
+D:\项目\CSharp知识点总结\Linq2Provider\bin\Debug\Linq2Provider.exe.config

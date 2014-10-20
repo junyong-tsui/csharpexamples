@@ -1,0 +1,8 @@
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\bin\Debug\RockBonusDemo(2).exe.config
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\bin\Debug\RockBonusDemo(2).exe
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\bin\Debug\RockBonusDemo(2).pdb
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\obj\Debug\RockBonusDemo_2_.Properties.Resources.resources
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\obj\Debug\RockBonusDemo_2_.RockBonusFrm.resources
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\obj\Debug\RockBonusDemo(2).csproj.GenerateResource.Cache
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\obj\Debug\RockBonusDemo(2).exe
+E:\C#\CSharp知识点总结\RockBonusDemo(2)\obj\Debug\RockBonusDemo(2).pdb
