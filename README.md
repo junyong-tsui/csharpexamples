@@ -1,0 +1,1 @@
+   all just study notes about .net .
